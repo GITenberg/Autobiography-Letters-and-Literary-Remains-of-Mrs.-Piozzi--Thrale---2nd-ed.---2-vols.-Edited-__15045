@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '36414'
     url: http://www.gutenberg.org/2009/agents/36414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15045#Autobiography-Letters-and-Literary-Remains-of-Mrs.-Piozzi--Thrale---2nd-ed.---2-vols.-Edited-_
 gutenberg_issued: '2005-02-14'
 gutenberg_type: Text
 identifiers:
