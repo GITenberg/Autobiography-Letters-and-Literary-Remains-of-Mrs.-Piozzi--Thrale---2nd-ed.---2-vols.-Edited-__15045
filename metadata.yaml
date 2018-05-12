@@ -1,0 +1,46 @@
+_repo: Autobiography-Letters-and-Literary-Remains-of-Mrs.-Piozzi--Thrale---2nd-ed.---2-vols.-Edited-__15045
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Piozzi, Hester Lynch
+    aliases:
+    - Piozzi, Hester Lynch Salusbury Thrale
+    - Thrale, Hester Lynch
+    birthdate: 1741
+    deathdate: 1821
+    gutenberg_agent_id: '906'
+    url: http://www.gutenberg.org/2009/agents/906
+    wikipedia: http://en.wikipedia.org/wiki/Hester_Thrale
+  editor:
+    agent_name: Hayward, A. (Abraham)
+    alias: Hayward, Abraham
+    birthdate: 1801
+    deathdate: 1884
+    gutenberg_agent_id: '36414'
+    url: http://www.gutenberg.org/2009/agents/36414
+description: ''
+gutenberg_issued: '2005-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Piozzi, Hester Lynch, 1741-1821 -- Correspondence'
+- !lcsh 'Women and literature -- England -- History -- 18th century'
+- !lcsh 'Authors, English -- 18th century -- Biography'
+- !lcsh 'Piozzi, Hester Lynch, 1741-1821'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 18th century -- Correspondence'
+- !lcsh 'Thrale, Henry, 1728-1781 -- Marriage'
+- !lcsh 'Johnson, Samuel, 1709-1784 -- Friends and associates'
+title: 'Autobiography, Letters and Literary Remains of Mrs. Piozzi (Thrale) (2nd ed.)
+  (2 vols.)
+
+  Edited with notes and Introductory Account of her life and writings'
+url: http://www.gutenberg.org/ebooks/15045
